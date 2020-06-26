@@ -6,13 +6,13 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 # (CoMoDiTy)
 
 # THEME-SPECIFIC CONFIGURATION
-title: 1st International Workshop on Conceptual Modeling for Digital Twins
+title: Conceptual Modeling for Digital Twins
 description: " " # Website of the 1st Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy)
 #avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 #favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text:  1st International Workshop on Conceptual Modeling for Digital Twins
+header_text:  1st International Workshop of Conceptual Modeling for Digital Twins 
 header_feature_image: " "#assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
